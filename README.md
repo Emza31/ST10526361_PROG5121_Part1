@@ -12,8 +12,13 @@ Main.App class is where we put in our username,phone number and password.
 LoginTest class is where we test if our part 1 works username,phone number and password.
 
 -------
-## features
-##1 username validation( username must consists of an underscore and not longer tha 8 chars)
-##3 password validation( password mustt consists of special char,numbers and a capital)
-##2 phone number validation( must be a south african cell network starts with a +27)
+## Features
+
+### USERNAME validation
+( username must consists of an underscore and not longer tha 8 chars)
+
+## password validation
+( password mustt consists of special char,numbers and a capital)
+##  phone number validation
+( must be a south african cell network starts with a +27)
 --------
